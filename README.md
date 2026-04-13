@@ -1,4 +1,8 @@
-## Hi there 👋
+* Manager
+* Engineer
+* DC-Local
+* Husband
+* Girl-Dad
 
 <!--
 **ianegordon/ianegordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
